@@ -5,4 +5,4 @@ git clone https://github.com/TAHIDUL-123/FRIEND-CLONE
 
 cd FRIEND-CLONE
 
-python 
+python FRIEND-CLONE.py
